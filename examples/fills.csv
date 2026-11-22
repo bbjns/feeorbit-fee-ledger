@@ -1,0 +1,3 @@
+fill_id,period_id,quote_asset,executed_value,fee_asset,fee
+example-a,example-order,USDT,600.00,USDT,0.60
+example-b,example-order,USDT,400.00,USDT,0.40
