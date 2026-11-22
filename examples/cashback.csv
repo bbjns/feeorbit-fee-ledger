@@ -1,0 +1,2 @@
+credit_id,period_id,asset,amount,status
+example-credit,example-order,USDT,0.25,posted
